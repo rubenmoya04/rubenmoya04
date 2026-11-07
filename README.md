@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Rubén 👋
 
-<!--
-**rubenmoya04/rubenmoya04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer from Spain (React, TypeScript, Spring Boot, Node.js).
 
-Here are some ideas to get you started:
+## 🚀 What I'm building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[enviArchivos](https://enviarchivos.com)**: send files and text between any two devices with a 4-letter code or a QR. No signup, no app to install. Works phone to PC, PC to phone, Android to iPhone.
+
+- Web app in 11 languages, plus an [Android app on Google Play](https://play.google.com/store/apps/details?id=com.enviarchivos.app)
+- Built solo: Node.js, Express, vanilla JS, SQLite (Turso), Kotlin for Android
+- Hosted on Railway behind Cloudflare
+- Source code is private
+
+## 🔗 More
+
+- Portfolio: [rubencodees.com](https://www.rubencodees.com)
